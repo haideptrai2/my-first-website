@@ -1,0 +1,161 @@
+.banner{
+    text-align: center;
+    color:palevioletred;
+    background-color:black;
+    background-clip: text;
+    -webkit-text-stroke-color: transparent;
+    -webkit-text-stroke-width: calc(3em / 16);
+    -webkit-background-clip: text;
+}
+h1{
+    font-family: "press Start 2P";
+}
+body{
+    background-color: pink;
+    border-width: 0%;
+}
+.title{
+    text-align: center;
+    color:white;
+    font-family: "VT323";
+    background-color:black;
+    background-clip: text;
+    -webkit-text-stroke-color: transparent;
+    -webkit-text-stroke-width: calc(2em / 16);
+    -webkit-background-clip: text;
+
+}
+.te{
+    color:black;
+    font-family: "VT323";
+    background-color:white;
+    background-clip: text;
+    -webkit-text-stroke-color: transparent;
+    -webkit-text-stroke-width: calc(2em / 16);
+    -webkit-background-clip: text;
+}
+.k1992{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color: white;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: beige;
+    border-radius: 10px;
+    color: black;
+}
+.colum{
+    float: left;
+}
+.k2006{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color:rgb(126, 54, 198);
+    border-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    border-radius: 10px;
+    color: black;
+}
+.k2010{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color:rgb(23, 155, 174);
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(249, 219, 186);
+    border-radius: 10px;
+    color: black;
+    margin-left: 10px;
+}
+.k2015{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color:rgb(223, 211, 195);
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(96, 102, 118);
+    border-radius: 10px;
+    color: black;
+    margin-left: 10px;
+}
+.k2018{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color:rgb(255, 130, 37);
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(249, 228, 0);
+    border-radius: 10px;
+    color: black;
+    margin-left: 10px;
+}
+.k2022{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-family:"Silkscreen";
+    background-color:rgb(190, 220, 116);
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(56, 127, 57);
+    border-radius: 10px;
+    color: black;
+    margin-left: 10px;
+}
+.MCV{
+    margin-left: auto;
+    margin-right: auto;
+}
+.panda1{
+    font-family:"Pacifico";
+    background-color:black;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+.panda2{
+    width: 700px;
+    border-radius:10px;
+    border-style:dashed;
+    border-color: gray;
+}
+.pr{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius:10px;
+    border-style: solid;
+    border-color: rgb(255,255,255);
+}
+.mk{
+    margin-right: 2.1%;
+}
+.mail{
+    margin-left: 0%;
+    margin-right: 0.8999%;
+}
+.dt{
+    margin-right: 3.5%;
+}
+.bd{
+    margin-right: 5.2%;
+}
+.vjp{
+    margin-right: 2.39%;
+}
